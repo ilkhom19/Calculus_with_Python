@@ -1,2 +1,4 @@
 # Calculus implementation with Python
-Some real life application of calculus topics with Python
+Several implementations of calculus topics with Python
+
+Independent works were assigned in Calculus I/II class
